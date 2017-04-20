@@ -10,13 +10,13 @@
 
 ## 个人信息
 
- - 卢林/男/1993 
+ - 卢林(jawil)/男/1993 
  - 本科/大连民族大学网络工程 2016届毕业生
  - 工作年限：1年
- - 技术博客：https://github.com/jawil/blog
- - GitHub：https://github.com/jawil
- - 稀土掘金：https://juejin.im/user/573b702c71cfe4006c1201f0/share
- - SegmentFault：https://segmentfault.com/u/jawil/articles
+ - 技术博客：[https://github.com/jawil/blog](https://github.com/jawil/blog)
+ - GitHub：[https://github.com/jawil](https://github.com/jawil)
+ - 稀土掘金：[https://juejin.im/user/573b702c71cfe4006c1201f0/share](](https://juejin.im/user/573b702c71cfe4006c1201f0/share))
+ - SegmentFault：[https://segmentfault.com/u/jawil/articles](https://segmentfault.com/u/jawil/articles)
  - 期望职位：Web前端中高级程序员，JavaScript工程师
  - 期望薪资：税前月薪10k~20k，特别喜欢的公司可例外
  - 期望城市：杭州或者上海
@@ -49,16 +49,19 @@
 
  - **[blog](https://github.com/jawil/blog)：**
  
+  github地址:[https://github.com/jawil/blog](https://github.com/jawil/blog)
+  
  ```
- github:https://github.com/jawil/blog
  简介：个人记录学习的博客 
+ 技术类型：HTML,CSS,JavaScript,Node
  star:1000+  
  fork:100+
  ```
  - **[webpack2](https://github.com/jawil/webpack2)：**
  
+  github地址:[https://github.com/jawil/webpack2](https://github.com/jawil/webpack2)
+  
  ```
- github:https://github.com/jawil/webpack2
  简介：基于webpack2和vue.js2构建饿了么多页面应用
  技术栈：webpack2+sass+rem+vue.js2+axios+ES6+node
  star:80+ 
@@ -67,8 +70,9 @@
  
  - **[datePicker](https://github.com/jawil/datePicker)：**
  
+  github地址:[https://github.com/jawil/datePicker](https://github.com/jawil/datePicker)
+  
  ```
- github:https://github.com/jawil/datePicker
  简介：仿滴滴出行预约打车IOS风格3D时间选择器
  技术栈：ES6+CSS3
  star:20+ 
@@ -78,7 +82,7 @@
 ### 开源贡献
  - **[bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)：**
  
->github:https://github.com/bailicangdu/vue2-elm
+>github：[https://github.com/bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)
 >
 >简介：基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 >
@@ -90,9 +94,11 @@
 
  - **[ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)：**
  
->github:https://github.com/ElemeFE/mint-ui
+>github：[https://github.com/ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)
 >
->简介：Mobile UI elements for Vue.js http://mint-ui.github.io/#!/en
+>官方网站：[http://mint-ui.github.io/#!/en](http://mint-ui.github.io/#!/en)
+>
+>简介：Mobile UI elements for Vue.js
 >
 >star:5k+
 >

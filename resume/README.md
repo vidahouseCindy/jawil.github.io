@@ -79,17 +79,25 @@
  - **[bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)：**
  
 >github:https://github.com/bailicangdu/vue2-elm
+>
 >简介：基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+>
 >star:5k+
+>
 >fork:1.5k+
+>
 >主要贡献：1commit，优化shop页面，让menu能随着食品的滑动能对应，被merge
 
  - **[ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)：**
  
 >github:https://github.com/ElemeFE/mint-ui
+>
 >简介：Mobile UI elements for Vue.js http://mint-ui.github.io/#!/en
+>
 >star:5k+
+>
 >fork:1k
+>
 >主要贡献：3commit，修复demo涉及到冒泡的小bug，以及插件datePicker的样式改动，拒绝被merge
  
  
@@ -119,3 +127,7 @@
 
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+
+
+

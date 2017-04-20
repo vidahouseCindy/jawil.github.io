@@ -29,6 +29,7 @@
 　　对JavaScript研究有兴趣，希望一直深入JS，能make a good wheel造福大家，JS偏执狂，对代码有洁癖，从不写分号，有良好的代码风格和注释习惯，经常阅读github一些大神的博客和优秀小型开源的源码，经常关注github一些大牛，例如司徒正美，迷渡，张云龙，代码家，桑世龙等大牛的动态，崇尚并且往大前端方向探索学习。
 
 　　崇尚简约，但不简单，崇尚自由，但不放纵。
+　　
 **Too young, too simple. Sometimes, naive & stupid.Yeah,I want to make a good wheel.**
 
 ---

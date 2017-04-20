@@ -104,7 +104,7 @@
  
 
 ### 技术文章
-- [从++\[\[\]\][+\[\]\]+\[+\[\]\]==10?深入浅出弱类型JS的隐式转换](https://github.com/jawil/blog/issues/5)
+- [从++\[\[\]\][+\[\]]+\[+\[\]\]==10?深入浅出弱类型JS的隐式转换](https://github.com/jawil/blog/issues/5)
 - [从探究Function.\_\_proto\_\_===Function.prototype过程中的一些收获](https://github.com/jawil/blog/issues/13)
 - [工作中经常用到github上优秀、实用、轻量级、无依赖的插件和库](https://github.com/jawil/blog/issues/10)
 - [纯CSS实现网站常用的五角星评分和分数展示交互效果](https://github.com/jawil/blog/issues/8)
